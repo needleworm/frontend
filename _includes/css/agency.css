@@ -307,7 +307,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('https://cdn.jsdelivr.net/gh/needleworm/101/img/header-bg.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/needleworm/frontend/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -696,7 +696,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('https://cdn.jsdelivr.net/gh/needleworm/101/img/map-image.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/needleworm/frontend/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
