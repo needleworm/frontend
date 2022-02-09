@@ -9,6 +9,7 @@ description: 이렇게 쉽게 프론트엔드 만들기 가능? 코딩을 배우
 
 books:
 
+
 - title: 142가지 데이터셋
   pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/13.jpg
   stores:
@@ -17,19 +18,7 @@ books:
     - shop: aladdin
       url: #
     - shop: yes24
-      url: #
-    - shop: kyobo
-      url: #
-
-- title: HTML, CSS, 자바스크립트
-  pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/12.jpg
-  stores:
-    - shop: naver
-      url: #
-    - shop: aladdin
-      url: #
-    - shop: yes24
-      url: #
+      url: http://www.yes24.com/Product/Goods/107036705
     - shop: kyobo
       url: #
 
