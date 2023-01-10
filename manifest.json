@@ -1,0 +1,15 @@
+{
+  "short_name": "포토샵",
+  "name": "포토샵 마스터 클래스",
+  "icons": [
+    {
+      "src": "img/favicon.ico",
+      "sizes": "36x36 48x48 72x72 96x96 144x144 192x192 57x57 60x60 72x72 76x76 114x114 120x120 144x144 152x152 180x180 16x16 32x32 96x96 70x70 144x144 150x150 310x310",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
