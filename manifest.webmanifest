@@ -1,16 +1,16 @@
 {
  "manifest_version": 2,
  "display": "fullscreen",
- "start_url": "/frontend?fullscreen=true",
+ "start_url": "/psd/?fullscreen=true",
  "name": "HTML CSS JS",
  "theme_color": "#000000",
  "background_color": "#ffffff",
  "icons": [
   {
-      "src": "img/favicon/favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
+    "src": "img/favicon/favicon.ico",
+    "sizes": "64x64 32x32 24x24 16x16",
+    "type": "image/x-icon"
+  },
   {
    "src": "img/favicon/android-icon-192x192.png",
    "sizes": "192x192",
@@ -20,6 +20,6 @@
    "src": "img/favicon/apple-icon-180x180.png",
    "sizes": "180x180",
    "type": "image/png"
-  },
+  }
  ]
 }
