@@ -2,9 +2,9 @@ url: https://needleworm.github.io/
 baseurl: /frontend
 
 # Site settings
-title: 코딩만 따라해도 웹페이지가 만들어지는 HTML, CSS, 자바스크립트
+title: HTML CSS JS
 email: bhban@kakao.com
-description: 이렇게 쉽게 프론트엔드 만들기 가능? 코딩을 배우면서 웹페이지까지 만들 수 있습니다!
+description: 코딩만 따라해도 웹페이지가 만들어지는 HTML, CSS, Javascript! 이렇게 쉽게 프론트엔드 만들기 가능? 코딩을 배우면서 웹페이지까지 만들 수 있습니다!
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
