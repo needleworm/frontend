@@ -5,6 +5,7 @@
  "name": "HTML CSS JS",
  "theme_color": "#000000",
  "background_color": "#ffffff",
+ 
  "icons": [
   {
     "src": "img/favicon/favicon.ico",
