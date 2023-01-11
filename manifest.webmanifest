@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+ "manifest_version": 2,
  "display": "fullscreen",
  "start_url": "/frontend/?fullscreen=true",
  "name": "HTML CSS JS",
