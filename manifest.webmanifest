@@ -1,4 +1,7 @@
 {
+  "manifest_version": 2,
+ "display": "fullscreen",
+ "start_url": "/frontend/?fullscreen=true",
  "name": "HTML CSS JS",
  "theme_color": "#000000",
  "background_color": "#ffffff",
@@ -18,7 +21,5 @@
    "sizes": "180x180",
    "type": "image/png"
   },
-  "start_url": "/?standalone=true",
-  "display": "standalone"
  ]
 }
